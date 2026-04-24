@@ -161,6 +161,10 @@ email:dk1816859@gmail.com
 
 GitHub: https://github.com/AyushSingh2901
 
+**Nikhil Singh**
+
+Github: https://github.com/Nikhil19singh
+
 ---
 
 ## ⭐ Acknowledgements
